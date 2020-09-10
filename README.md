@@ -1,5 +1,3 @@
-Project included: 
-
 Data exploration and visualization. 
 
 Preprocessing the train data: feature engineering, outliers removal, handling missing values and categorical features, data scailing and dimensionality reduction.
