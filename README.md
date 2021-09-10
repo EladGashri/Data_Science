@@ -6,4 +6,4 @@ Performing 4 machine learning algorithms on the train data, using the validation
 
 Using the model with the best results to prefict the test data.
 
-Project done with Python on Jupyter notebook.
+Project done with Python on Jupyter notebook with Scikit-Learn.
